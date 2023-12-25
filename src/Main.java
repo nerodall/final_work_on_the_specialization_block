@@ -13,6 +13,7 @@ public class Main {
         Integer hmNumber = 0;
 
         //Тут тестовый элемент. Можно раскоментить, чтобы руками заполнять
+        //тут еще комментарий
         Animals cat1 = new Cat("Барсик", new SimpleDateFormat("yyyy-MM-dd").parse("2022-02-11"));
         animalsHashMap.put(999, cat1);
 
